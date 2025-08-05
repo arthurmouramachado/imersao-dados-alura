@@ -1,2 +1,2 @@
 # imers-o-dados-alura
-aqui estará os códigos dessa imersão
+aqui neste repositório estará os códigos dessa imersão
